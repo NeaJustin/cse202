@@ -1,0 +1,93 @@
+Script started on Wed 07 Jun 2017 05:43:40 PM PDT
+]0;005178247@jb358-18:/students/csci/005178247/cse202/lab10]7;file://jb358-18.cse.csusb.edu/students/csci/005178247/cse202/lab10[?1034h[005178247@jb358-18 lab10]$ g++ maps.cpp -o Maps
+]0;005178247@jb358-18:/students/csci/005178247/cse202/lab10]7;file://jb358-18.cse.csusb.edu/students/csci/005178247/cse202/lab10[005178247@jb358-18 lab10]$ Maps
+Enter a month name: Jan
+This is a 31-day month.
+
+Please enter another month: Feb
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: Mar
+This is a 31-day month.
+
+Please enter another month: Apr
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: May
+This is a 31-day month.
+
+Please enter another month: Jun
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: July
+This is a 31-day month.
+
+Please enter another month: Aug
+This is a 31-day month.
+
+Please enter another month: Sep
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: Oct
+This is a 31-day month.
+
+Please enter another month: NOb v  ov
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: DE ec
+This is a 31-day month.
+
+Please enter another month: Januas ry
+This is a 31-day month.
+
+Please enter another month: FEbr   ebruary
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: March
+This is a 31-day month.
+
+Please enter another month: April
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: May
+This is a 31-day month.
+
+Please enter another month: June
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: July
+This is a 31-day month.
+
+Please enter another month: Agu  ugust
+This is a 31-day month.
+
+Please enter another month: Setp  pteme ber
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: Octor ber
+This is a 31-day month.
+
+Please enter another month: November
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: DEce   ecember
+This is a 31-day month.
+
+Please enter another month: a Augustine
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: Hello DR
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: MY 
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: DOG
+This is a non-31-day month or it is an invalid month name.
+
+Please enter another month: ]0;005178247@jb358-18:/students/csci/005178247/cse202/lab10]7;file://jb358-18.cse.csusb.edu/students/csci/005178247/cse202/lab10[005178247@jb358-18 lab10]$ EXI[K[K[Kexit
+exit
+
+Script done on Wed 07 Jun 2017 05:47:14 PM PDT

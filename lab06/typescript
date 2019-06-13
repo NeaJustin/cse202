@@ -1,0 +1,18 @@
+Script started on Wed 10 May 2017 07:09:13 PM PDT
+]0;005178247@jb358-18:/students/csci/005178247/cse202/lab06]7;file://jb358-18.cse.csusb.edu/students/csci/005178247/cse202/lab06[?1034h[005178247@jb358-18 lab06]$ g++ -c Linecount[K[K[K[K[K[K[K[K[K[K[K[KLineCount.cpp -o count
+]0;005178247@jb358-18:/students/csci/005178247/cse202/lab06]7;file://jb358-18.cse.csusb.edu/students/csci/005178247/cse202/lab06[005178247@jb358-18 lab06]$ count
+Please enter a file name: file
+Sorry could not find this file. 
+Please try another file: test
+3 11 57
+Please enter another file, or if you do not want to, press ctrl D: 
+test2
+7 32 163
+Please enter another file, or if you do not want to, press ctrl D: 
+LineCount.cpp
+62 246 1594
+Please enter another file, or if you do not want to, press ctrl D: 
+]0;005178247@jb358-18:/students/csci/005178247/cse202/lab06]7;file://jb358-18.cse.csusb.edu/students/csci/005178247/cse202/lab06[005178247@jb358-18 lab06]$ exit
+exit
+
+Script done on Wed 10 May 2017 07:10:11 PM PDT

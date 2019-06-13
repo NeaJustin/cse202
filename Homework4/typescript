@@ -1,0 +1,22 @@
+Script started on Wed 07 Jun 2017 02:34:21 PM PDT
+]0;005178247@jb357-l2:/students/csci/005178247/cse202/Homework4]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/Homework4[?1034h[005178247@jb357-l2 Homework4]$ g[KexitclearBalanceg++ Balance_main.cpp -o Balance
+]0;005178247@jb357-l2:/students/csci/005178247/cse202/Homework4]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/Homework4[005178247@jb357-l2 Homework4]$ Balance
+Please enter a file name: Balance2
+The file is balanced.
+
+Would you like to check antoher file for balance? notbalance
+Not a balanced file.
+
+Would you like to check antoher file for balance? Bana  lancd e3
+The file is balanced.
+
+Would you like to check antoher file for balance? notbalance3
+Not a balanced file.
+
+Would you like to check antoher file for balance? notbalance2
+Not a balanced file.
+
+Would you like to check antoher file for balance? ]0;005178247@jb357-l2:/students/csci/005178247/cse202/Homework4]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/Homework4[005178247@jb357-l2 Homework4]$ exit
+exit
+
+Script done on Wed 07 Jun 2017 02:35:08 PM PDT

@@ -1,0 +1,22 @@
+Script started on Wed 12 Apr 2017 01:45:50 PM PDT
+]0;005178247@jb359-0:/students/csci/005178247/cse202/lab01]7;file://jb359-0.cse.csusb.edu/students/csci/005178247/cse202/lab01[?1034h[005178247@jb359-0 lab01]$ g++ -0[K[KAccount.o Account[Kt_[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K-c Account.h[Kcpp
+]0;005178247@jb359-0:/students/csci/005178247/cse202/lab01]7;file://jb359-0.cse.csusb.edu/students/csci/005178247/cse202/lab01[005178247@jb359-0 lab01]$ g++ -c Account_m,a[K[Kain.cpp
+]0;005178247@jb359-0:/students/csci/005178247/cse202/lab01]7;file://jb359-0.cse.csusb.edu/students/csci/005178247/cse202/lab01[005178247@jb359-0 lab01]$ g++ Account.o Account_main.o
+]0;005178247@jb359-0:/students/csci/005178247/cse202/lab01]7;file://jb359-0.cse.csusb.edu/students/csci/005178247/cse202/lab01[005178247@jb359-0 lab01]$ .a[K[K.[K./a.out
+Calcing interest for savings: 
+Savings after one year. 10600
+Savings after one year. 11236
+Savings after one year. 11910.2
+Savings after one year. 12624.8
+Savings after one year. 13382.3
+Savings after one year. 14185.2
+Savings after one year. 15036.3
+Savings after one year. 15938.5
+Savings after one year. 16894.8
+Savings after one year. 17908.5
+Savings after one year. 18983
+Savings after one year. 20122
+]0;005178247@jb359-0:/students/csci/005178247/cse202/lab01]7;file://jb359-0.cse.csusb.edu/students/csci/005178247/cse202/lab01[005178247@jb359-0 lab01]$ exit
+exit
+
+Script done on Wed 12 Apr 2017 01:47:09 PM PDT

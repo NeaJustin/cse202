@@ -1,0 +1,14 @@
+Script started on Wed 12 Apr 2017 02:34:27 PM PDT
+]0;005178247@jb357-l2:/students/csci/005178247/cse202/lab01]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/lab01[?1034h[005178247@jb357-l2 lab01]$ exit./Accountg++ -o Account Account.o Account_main.o[16Pc Account_main.cpp[5P.cpp[3PBank.cppAccount.cpp
+]0;005178247@jb357-l2:/students/csci/005178247/cse202/lab01]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/lab01[005178247@jb357-l2 lab01]$ g++ -c Account.cppexit[K./Accountg++ -o Account Account.o Account_main.o[16Pc Account_main.cpp[5P.cpp[3PBank.cpp
+]0;005178247@jb357-l2:/students/csci/005178247/cse202/lab01]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/lab01[005178247@jb357-l2 lab01]$ g++ -c Bank.cppAccount.cppexit[K./Accountg++ -o Account Account.o Account_main.o[16Pc Account_main.cpp[5P.cpp[3PBank.cpp[10Pclearg++ -c Bank.cpp[10Pclearg++ -c Bank.cpp[10Pclearg++ -c Bank.cpp[10Pclearg++ -c Bank.cpp[K[K[K[K_main.cpp
+]0;005178247@jb357-l2:/students/csci/005178247/cse202/lab01]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/lab01[005178247@jb357-l2 lab01]$ g++ -c Bank_main.cpp[5P.cppAccount.cppexit[K./Accountg++ -o Account Account.o Account_main.o
+]0;005178247@jb357-l2:/students/csci/005178247/cse202/lab01]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/lab01[005178247@jb357-l2 lab01]$ g++ -o Account Account.o Account_main.o[19Pc Bank_main.cpp[5P.cppAccount.cppexit[K./Accountg++ -o Account Account.o Account_main.o[16Pc Account_main.cpp[5P.cpp[3PBank.cpp[10Pclearg++ -c Bank.cpp[10Pclearg++ -c Bank.cpp[10Pclearg++ -c Bank.cpp[10Pclear[K[K[K[K[Kg++ -0[Ko Bank Bank.o Ban[K[K[KAccount.o Bank_main.o
+]0;005178247@jb357-l2:/students/csci/005178247/cse202/lab01]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/lab01[005178247@jb357-l2 lab01]$ ./Bank
+Error, Account not found.
+Savings is now: $1010
+Checkings is now: $125
+]0;005178247@jb357-l2:/students/csci/005178247/cse202/lab01]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/lab01[005178247@jb357-l2 lab01]$ exit
+exit
+
+Script done on Wed 12 Apr 2017 02:35:18 PM PDT

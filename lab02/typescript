@@ -1,0 +1,44 @@
+Script started on Tue 18 Apr 2017 10:50:26 AM PDT
+]0;005178247@jb357-l1:/students/csci/005178247/cse202/lab02]7;file://jb357-l1.cse.csusb.edu/students/csci/005178247/cse202/lab02[?1034h[005178247@jb357-l1 lab02]$ g++ Vector_main.cpp
+]0;005178247@jb357-l1:/students/csci/005178247/cse202/lab02]7;file://jb357-l1.cse.csusb.edu/students/csci/005178247/cse202/lab02[005178247@jb357-l1 lab02]$ ./a.out
+First set of numbers to input, enter -1 to stop: 1
+Please enter another number, (-1 to stop): 4
+Please enter another number, (-1 to stop): 5
+Please enter another number, (-1 to stop): 7
+Please enter another number, (-1 to stop): 8
+Please enter another number, (-1 to stop): 9
+Please enter another number, (-1 to stop): 16
+Please enter another number, (-1 to stop): -1
+Next set of numbers to input, enter -1 to stop: 2
+Please enter another number, (-1 to stop): 3
+Please enter another number, (-1 to stop): 5
+Please enter another number, (-1 to stop): 10
+Please enter another number, (-1 to stop): -1
+Print of merge list: 
+1c
+2c
+4c
+3c
+5c
+5c
+7c
+10c
+8c
+9c
+16c
+Print of merge sorted list: 
+1
+2
+3
+4
+5
+5
+7
+8
+9
+10
+16
+]0;005178247@jb357-l1:/students/csci/005178247/cse202/lab02]7;file://jb357-l1.cse.csusb.edu/students/csci/005178247/cse202/lab02[005178247@jb357-l1 lab02]$ exit
+exit
+
+Script done on Tue 18 Apr 2017 10:51:08 AM PDT

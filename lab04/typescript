@@ -1,0 +1,29 @@
+Script started on Wed 03 May 2017 02:10:09 PM PDT
+]0;005178247@jb357-l2:/students/csci/005178247/cse202/lab04]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/lab04[?1034h[005178247@jb357-l2 lab04]$ make
+g++ -c Person_main.cpp
+g++ -c Person.cpp
+g++ -o Person Person_main.cpp Person.o
+]0;005178247@jb357-l2:/students/csci/005178247/cse202/lab04]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/lab04[005178247@jb357-l2 lab04]$ ./Person
+Jack already exist.
+Who is Jackie 's best friend? Jack
+Who is Jack 's best friend? Sam
+Could not find best freind Sam
+Who is Jack 's best friend? Sam
+Could not find best freind Sam
+Who is Jack 's best friend? AS manads a
+Could not find best freind Amanada
+Who is Jack 's best friend? Jackie
+Who is Amanda 's best friend? Jack
+Who is Rod 's best friend? COnnie     onnie
+Who is Connie 's best friend? Rod
+Jackie    Jack       1
+Jack      Jackie     2
+Amanda    Jack       0
+Rod       Connie     1
+Connie    Rod        1
+]0;005178247@jb357-l2:/students/csci/005178247/cse202/lab04]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/lab04[005178247@jb357-l2 lab04]$ [K[005178247@jb357-l2 lab04]$ [K[005178247@jb357-l2 lab04]$ make clean
+rm *.o Person
+]0;005178247@jb357-l2:/students/csci/005178247/cse202/lab04]7;file://jb357-l2.cse.csusb.edu/students/csci/005178247/cse202/lab04[005178247@jb357-l2 lab04]$ exit
+exit
+
+Script done on Wed 03 May 2017 02:12:39 PM PDT

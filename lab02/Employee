@@ -1,0 +1,24 @@
+Script started on Wed 19 Apr 2017 03:26:37 PM PDT
+]0;005178247@jb358-8:/students/csci/005178247/cse202/lab02]7;file://jb358-8.cse.csusb.edu/students/csci/005178247/cse202/lab02[?1034h[005178247@jb358-8 lab02]$ g++ 0[K-c Emplo[K[K[K[K[Kempoy[K[Kloyee_maincp[K[K.cpp
+]0;005178247@jb358-8:/students/csci/005178247/cse202/lab02]7;file://jb358-8.cse.csusb.edu/students/csci/005178247/cse202/lab02[005178247@jb358-8 lab02]$ g++ c [K[K-c Staffcp[K[K.cpp
+]0;005178247@jb358-8:/students/csci/005178247/cse202/lab02]7;file://jb358-8.cse.csusb.edu/students/csci/005178247/cse202/lab02[005178247@jb358-8 lab02]$ g++ -c Emloyee[K[K[K[K[Kployee.cpp
+]0;005178247@jb358-8:/students/csci/005178247/cse202/lab02]7;file://jb358-8.cse.csusb.edu/students/csci/005178247/cse202/lab02[005178247@jb358-8 lab02]$ g+= [K[K+ -o staff employee_main.o Staffo [K[Ko[K.o Employeeo[K.o
+]0;005178247@jb358-8:/students/csci/005178247/cse202/lab02]7;file://jb358-8.cse.csusb.edu/students/csci/005178247/cse202/lab02[005178247@jb358-8 lab02]$ ..[K/staff
+Enter a set of name, salary pairs, terminate with -1 -1
+justin 30000
+william 20000
+kyle 50000
+justin 30000
+1   -1 -1
+Raise anybody's salary? y
+Enter name and percent: justin 10  6
+6Raise anybody else's salary? y
+Enter name and percent: kyle 8
+8Raise anybody else's salary? no
+justin 31000
+william 20000
+kyle 51000
+]0;005178247@jb358-8:/students/csci/005178247/cse202/lab02]7;file://jb358-8.cse.csusb.edu/students/csci/005178247/cse202/lab02[005178247@jb358-8 lab02]$ exit
+exit
+
+Script done on Wed 19 Apr 2017 03:29:18 PM PDT

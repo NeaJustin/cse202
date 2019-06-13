@@ -1,0 +1,18 @@
+Script started on Wed 17 May 2017 07:06:58 PM PDT
+]0;005178247@jb358-18:/students/csci/005178247/cse202/lab07]7;file://jb358-18.cse.csusb.edu/students/csci/005178247/cse202/lab07[?1034h[005178247@jb358-18 lab07]$ g+= [K[K+ palindrome.cpp -o palindrome
+]0;005178247@jb358-18:/students/csci/005178247/cse202/lab07]7;file://jb358-18.cse.csusb.edu/students/csci/005178247/cse202/lab07[005178247@jb358-18 lab07]$ palindrome
+Enter a string: Madam, i I'm Madam     Adam
+' Madam, I'm Adam' is a palindrome.
+]0;005178247@jb358-18:/students/csci/005178247/cse202/lab07]7;file://jb358-18.cse.csusb.edu/students/csci/005178247/cse202/lab07[005178247@jb358-18 lab07]$ palindrome
+Enter a string: ex ammaxe
+' ex ammaxe' is a palindrome.
+]0;005178247@jb358-18:/students/csci/005178247/cse202/lab07]7;file://jb358-18.cse.csusb.edu/students/csci/005178247/cse202/lab07[005178247@jb358-18 lab07]$ palindrome
+Enter a string: a man a plan a cal nal                 , a plan, a canal - Pn anama!
+' a man, a plan, a canal - Panama!' is a palindrome.
+]0;005178247@jb358-18:/students/csci/005178247/cse202/lab07]7;file://jb358-18.cse.csusb.edu/students/csci/005178247/cse202/lab07[005178247@jb358-18 lab07]$ palindrome
+Enter a string: race car
+' race car' is a palindrome.
+]0;005178247@jb358-18:/students/csci/005178247/cse202/lab07]7;file://jb358-18.cse.csusb.edu/students/csci/005178247/cse202/lab07[005178247@jb358-18 lab07]$ exit
+exit
+
+Script done on Wed 17 May 2017 07:09:25 PM PDT

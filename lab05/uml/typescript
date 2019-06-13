@@ -1,0 +1,29 @@
+Script started on Wed 10 May 2017 01:41:23 PM PDT
+]0;005178247@jb357-l1:/students/csci/005178247/cse202/lab05/uml]7;file://jb357-l1.cse.csusb.edu/students/csci/005178247/cse202/lab05/uml[?1034h[005178247@jb357-l1 uml]$ make
+g++ -c Main.cpp
+g++ -c Instructor.cpp
+g++ -c Student.cpp
+g++ -c Person.cpp
+g++ -o Main Main.o Student.o Person.o Instructor.o
+]0;005178247@jb357-l1:/students/csci/005178247/cse202/lab05/uml]7;file://jb357-l1.cse.csusb.edu/students/csci/005178247/cse202/lab05/uml[005178247@jb357-l1 uml]$ ./ma[K[KMain
+Jason, 5, 13, 87, M
+Stefan, 6, 17, 95, F
+ Student, Major: Comm
+Ms. Matthew, 12, 30, 99, F
+ Instructor, Salary: 20000
+Mr. Billy, 1, 01, 96, M
+ Instructor, Salary: 40000
+Tyler, 2, 02, 95, M
+ Student, Major: Reforming
+Stefan, 6, 17, 95, F
+Jason, 5, 13, 87, M
+]0;005178247@jb357-l1:/students/csci/005178247/cse202/lab05/uml]7;file://jb357-l1.cse.csusb.edu/students/csci/005178247/cse202/lab05/uml[005178247@jb357-l1 uml]$ make clean
+rm *.o
+rm Main
+]0;005178247@jb357-l1:/students/csci/005178247/cse202/lab05/uml]7;file://jb357-l1.cse.csusb.edu/students/csci/005178247/cse202/lab05/uml[005178247@jb357-l1 uml]$ ls
+Instructor.cpp  Main.cpp  Person.cpp  Student.cpp  typescript
+Instructor.h    makefile  Person.h    Student.h
+]0;005178247@jb357-l1:/students/csci/005178247/cse202/lab05/uml]7;file://jb357-l1.cse.csusb.edu/students/csci/005178247/cse202/lab05/uml[005178247@jb357-l1 uml]$ cl[K[Kexit
+exit
+
+Script done on Wed 10 May 2017 01:41:43 PM PDT

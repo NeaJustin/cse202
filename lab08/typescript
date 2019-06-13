@@ -1,0 +1,35 @@
+Script started on Wed 31 May 2017 02:14:54 PM PDT
+]0;005178247@jb357-l1:/students/csci/005178247/cse202/lab08]7;file://jb357-l1.cse.csusb.edu/students/csci/005178247/cse202/lab08[?1034h[005178247@jb357-l1 lab08]$ g++ Sorting.cpp
+]0;005178247@jb357-l1:/students/csci/005178247/cse202/lab08]7;file://jb357-l1.cse.csusb.edu/students/csci/005178247/cse202/lab08[005178247@jb357-l1 lab08]$ a.out
+Please enter a file name: Numbers 
+5
+10
+15
+20
+25
+30
+35
+40
+Please enter another file name: ctrl D to quit
+Please enter a number for binary search: 1
+-1
+Enter another value, press ctrl d to stop: 
+15
+2
+Enter another value, press ctrl d to stop: 
+18
+-1
+Enter another value, press ctrl d to stop: 
+40
+7
+Enter another value, press ctrl d to stop: 
+30
+5
+Enter another value, press ctrl d to stop: 
+50
+-1
+Enter another value, press ctrl d to stop: 
+]0;005178247@jb357-l1:/students/csci/005178247/cse202/lab08]7;file://jb357-l1.cse.csusb.edu/students/csci/005178247/cse202/lab08[005178247@jb357-l1 lab08]$ exit
+exit
+
+Script done on Wed 31 May 2017 02:15:47 PM PDT

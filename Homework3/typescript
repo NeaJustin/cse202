@@ -1,0 +1,17 @@
+Script started on Mon 08 May 2017 03:39:26 PM PDT
+]0;005178247@jb358-20:/students/csci/005178247/cse202/Homework3]7;file://jb358-20.cse.csusb.edu/students/csci/005178247/cse202/Homework3[?1034h[005178247@jb358-20 Homework3]$ g++ -c Main.cpp 
+]0;005178247@jb358-20:/students/csci/005178247/cse202/Homework3]7;file://jb358-20.cse.csusb.edu/students/csci/005178247/cse202/Homework3[005178247@jb358-20 Homework3]$ g+_+[K[K+ -c Salary_Mia[K[K[KWorker.cpp
+]0;005178247@jb358-20:/students/csci/005178247/cse202/Homework3]7;file://jb358-20.cse.csusb.edu/students/csci/005178247/cse202/Homework3[005178247@jb358-20 Homework3]$ g++ -c M[KHOurl[K[K[K[Kou[Kurly_w[KWOrke[K[K[K[Korker.cpp
+]0;005178247@jb358-20:/students/csci/005178247/cse202/Homework3]7;file://jb358-20.cse.csusb.edu/students/csci/005178247/cse202/Homework3[005178247@jb358-20 Homework3]$ g++ c[K-c Worker.cpp
+]0;005178247@jb358-20:/students/csci/005178247/cse202/Homework3]7;file://jb358-20.cse.csusb.edu/students/csci/005178247/cse202/Homework3[005178247@jb358-20 Homework3]$ g++ -0[Ko Mia[K[Kain Main.o Salary_WOrk[K[K[Korker.p[Ko S[KHourly_Worker.o Worker.o
+]0;005178247@jb358-20:/students/csci/005178247/cse202/Homework3]7;file://jb358-20.cse.csusb.edu/students/csci/005178247/cse202/Homework3[005178247@jb358-20 Homework3]$ ./Main
+Employee: Jason Salary: $400
+Employee: Valerie Salary: $475
+Employee: Person Salary: $400
+Employee: Bob Salary: $475
+Employee: Patrick Salary: $475
+Employee: Ashley Salary: $400
+]0;005178247@jb358-20:/students/csci/005178247/cse202/Homework3]7;file://jb358-20.cse.csusb.edu/students/csci/005178247/cse202/Homework3[005178247@jb358-20 Homework3]$ exit
+exit
+
+Script done on Mon 08 May 2017 03:40:28 PM PDT

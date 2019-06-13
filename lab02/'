@@ -1,0 +1,123 @@
+/***********************************************************************************
+Justin Pulido
+Vector_main.cpp
+April 12, 2017
+The program sorts numbers in a line depending on which one will come first. 
+***********************************************************************************/
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+/*
+vector<int> append(vector<int> a, vector<int> b)
+{
+    vector<int> c;
+    int i;
+
+    for (i = 0; i < a.size(); i++)
+	c.push_back(a[i]);
+
+    for (i = 0; i < b.size(); i++)
+	c.push_back(b[i]);
+
+    return c;
+}
+*/
+vector<int> append(vector<int> a, vector<int> b)
+{
+    int n = a.size();
+    int m = b.size();
+    vector<int> c(n + m);
+    int i;
+
+    for (i = 0; i < n; i++)
+	c[i] = a[i];
+
+    for (i = 0; i < m; i++)
+	c[n + i] = b[i];
+
+    return c;
+}
+
+vector<int> merge_sorted(vector<int> a, vector<int> b)
+{
+    int n = a.size();
+    int m = b.size();
+    vector<int> c(n + m);
+    int i;
+
+    for (i = 0; i < a.size() && i < b.size(); i++)
+	c.push_back(a[i]);
+	c.push_back(b[i]); 
+    return c;
+}
+
+int main()
+{
+    int i;
+
+    vector<int> a;
+    int temp;
+    cout << "First set of numbers to input, enter -1 to stop: ";
+    cin >> temp;
+
+    while (temp != -1) {
+        a.push_back(temp);
+	cout << "Please enter another number, (-1 to stop): ";
+	cin >> temp;
+    }
+
+    vector<int> b;
+    cout << "Next set of numbers to input, enter -1 to stop: ";
+    int holder;
+    cin >> holder;
+
+    while (holder != -1) {
+	b.push_back(holder);
+	cin >> holder;
+    }
+
+    vector <int> c = merge_sorted(a, b);
+    
+    for (i = 0; i < a.size() && i < b.size(); i++) {
+        sort(a.begin(), a.end());
+	sort(b.begin(), b.end());
+	cout << c[i];
+    }
+
+    for (i = 0; i < a.size(); i++) {
+	cout << c[i] << endl;
+    }
+
+    for (i = 0; i < b.size(); i++) {
+	cout << c[i] << endl;
+    }
+
+
+    return 0;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

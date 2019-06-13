@@ -1,0 +1,19 @@
+Main: Main.o Worker.o Salary_Worker.o Hourly_Worker.o
+      g++ -o Main Main.o Salary_Worker.o Hourly_Worker.o
+
+Main.o: Main.cpp Worker.h Salary_Worker.h Hourly_Worker.h
+	g++ -c Main.cpp
+
+Worker.o: Worker.h Worker.cpp
+	g++ -c Worker.cpp
+
+Salary_Worker.o: Salary_Woker.h Salary_Worker.cpp
+	g++ -c Salary_worker.cpp
+
+Hourly_Worker: Hourly_Worker.h Hourly_Worker.cpp
+	g++ -c Hourly_Worker.cpp
+
+clean: 
+	rm *.o
+
+
